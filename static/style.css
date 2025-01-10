@@ -1,0 +1,38 @@
+body {
+    background-image: url('/static/melbourne.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_box {
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    background-color: rgba(26, 21, 21, 0.575);
+    border-radius: 8px;
+}
+
+.cont {
+    color: azure;
+    font-size: larger;
+    padding: 10px;
+}
+
+.btn-primary {
+    padding: 7px;
+}
+
+h2 {
+    color: blanchedalmond;
+}
+
+h3 {
+    padding: 7px;
+    color: blanchedalmond;
+}
